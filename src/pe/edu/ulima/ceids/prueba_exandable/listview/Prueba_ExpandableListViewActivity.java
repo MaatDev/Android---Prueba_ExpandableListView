@@ -13,6 +13,8 @@ import android.widget.ExpandableListView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+//http://es.wikicode.org/index.php/ExpandableListView_personalizado
+
 public class Prueba_ExpandableListViewActivity extends Activity {
     
 	private ArrayList<String> groups;
